@@ -28,3 +28,5 @@ Yuanbo Xu     24601231
 
 
 Haosong Teng  12999064
+
+Each of us share the equal contribution to this project. 
