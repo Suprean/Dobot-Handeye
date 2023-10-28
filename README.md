@@ -18,6 +18,13 @@ Next use the eyeinhand.m or eyetohand.m to get the point that the robot arm need
 Finally, use the figures you generate from the previous step as input to control the robot arm through the Control_on_Dobotlab.py. 
 
 This project is done by:
+
+
+
 Zixuan Yan    24675441
+
+
 Yuanbo Xu     24601231
+
+
 Haosong Teng  12999064
